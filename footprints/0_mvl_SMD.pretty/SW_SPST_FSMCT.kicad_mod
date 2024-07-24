@@ -35,6 +35,7 @@
 		(effects
 			(font
 				(size 1.27 1.27)
+				(thickness 0.15)
 			)
 		)
 	)
@@ -47,6 +48,7 @@
 		(effects
 			(font
 				(size 1.27 1.27)
+				(thickness 0.15)
 			)
 		)
 	)
@@ -59,6 +61,7 @@
 		(effects
 			(font
 				(size 1.27 1.27)
+				(thickness 0.15)
 			)
 		)
 	)
@@ -269,7 +272,7 @@
 		(layers "F.Cu" "F.Paste" "F.Mask")
 		(uuid "c0fa3630-b87c-46b2-87bf-742359f9e312")
 	)
-	(model "${KISYS3DMOD}/Buttons_Switches_SMD.3dshapes/SW_SPST_EVPBF.wrl"
+	(model "${MVL_LIB_3D_DIR}/0_mvl_SMD.3dshapes/SW_SPST_TL3342.wrl"
 		(offset
 			(xyz 0 0 0)
 		)

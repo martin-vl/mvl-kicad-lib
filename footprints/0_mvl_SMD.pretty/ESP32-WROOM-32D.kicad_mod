@@ -36,6 +36,7 @@
 		(effects
 			(font
 				(size 1.27 1.27)
+				(thickness 0.15)
 			)
 		)
 	)
@@ -48,6 +49,7 @@
 		(effects
 			(font
 				(size 1.27 1.27)
+				(thickness 0.15)
 			)
 		)
 	)
@@ -60,6 +62,7 @@
 		(effects
 			(font
 				(size 1.27 1.27)
+				(thickness 0.15)
 			)
 		)
 	)
@@ -946,15 +949,15 @@
 			)
 		)
 	)
-	(model "${KICAD8_3DMODEL_DIR}/RF_Module.3dshapes/ESP32-WROOM-32D.wrl"
+	(model "${MVL_LIB_3D_DIR}/0_mvl_SMD.3dshapes/ESP-WROOM-32.wrl"
 		(offset
-			(xyz 0 0 0)
+			(xyz 0 3 0)
 		)
 		(scale
 			(xyz 1 1 1)
 		)
 		(rotate
-			(xyz 0 0 0)
+			(xyz 0 0 180)
 		)
 	)
 )

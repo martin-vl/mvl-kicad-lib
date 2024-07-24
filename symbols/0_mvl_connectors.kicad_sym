@@ -1489,7 +1489,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "0_mvl_SMD:USB_Micro-B_Molex_47346-0001"
 			(at 0 0 0)
 			(effects
 				(font
