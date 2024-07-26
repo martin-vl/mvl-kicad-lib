@@ -241,7 +241,7 @@
 		(roundrect_rratio 0.25)
 		(uuid "392331a0-1938-40c3-8191-a45c4418869f")
 	)
-	(model "${MVL_LIB_3D_DIR}/0_mvl_SMD.3dshapes/SOT-23-3.wrl"
+	(model "${MVL_KICAD_LIB}/3d_models/0_mvl_SMD.3dshapes/SOT-23-3.step"
 		(offset
 			(xyz 0 0 0)
 		)

@@ -71,6 +71,17 @@
 		(center 0 0)
 		(end 3.2 0)
 		(stroke
+			(width 0.2)
+			(type solid)
+		)
+		(fill none)
+		(layer "F.SilkS")
+		(uuid "d5ac4043-9822-4dda-8a75-7bf30a5920ef")
+	)
+	(fp_circle
+		(center 0 0)
+		(end 3.2 0)
+		(stroke
 			(width 0.15)
 			(type solid)
 		)
@@ -104,7 +115,8 @@
 		(at 0 0)
 		(size 3.2 3.2)
 		(drill 3.2)
-		(layers "*.Cu" "*.Mask")
+		(layers "F&B.Cu" "*.Mask")
+		(clearance 1.85)
 		(uuid "fa055336-61f5-479c-bf43-b9204a2cfbf2")
 	)
 )

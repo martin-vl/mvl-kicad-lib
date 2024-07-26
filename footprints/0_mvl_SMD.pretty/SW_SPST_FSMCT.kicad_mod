@@ -283,4 +283,15 @@
 			(xyz 0 0 0)
 		)
 	)
+	(model "${MVL_KICAD_LIB}/3d_models/0_mvl_SMD.3dshapes/SW_SPST_TL3342.step"
+		(offset
+			(xyz 0 0 0)
+		)
+		(scale
+			(xyz 1 1 1)
+		)
+		(rotate
+			(xyz 0 0 0)
+		)
+	)
 )
