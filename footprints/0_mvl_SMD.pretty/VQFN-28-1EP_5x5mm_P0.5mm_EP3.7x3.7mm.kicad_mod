@@ -600,7 +600,7 @@
 		(uuid "7c9509d2-f00c-46dd-90fe-e4ce680192db")
 	)
 	(embedded_fonts no)
-	(model "${KICAD9_3DMODEL_DIR}/Package_DFN_QFN.3dshapes/VQFN-28-1EP_5x5mm_P0.5mm_EP3.7x3.7mm.step"
+	(model "${MVL_KICAD_LIB}/3d_models/0_mvl_SMD.3dshapes/VQFN-28-1EP_5x5mm_P0.5mm_EP3.7x3.7mm.step"
 		(offset
 			(xyz 0 0 0)
 		)
@@ -608,7 +608,7 @@
 			(xyz 1 1 1)
 		)
 		(rotate
-			(xyz 0 0 0)
+			(xyz -90 -0 -0)
 		)
 	)
 )
