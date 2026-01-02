@@ -2616,6 +2616,7 @@
 				(font
 					(size 1.27 1.27)
 				)
+				(hide yes)
 			)
 		)
 		(property "Footprint" "0_mvl_SMD:SolderJumper-2_P1.3mm_Bridged_RoundedPad1.0x1.5mm"
@@ -2750,7 +2751,7 @@
 			(hide yes)
 		)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
 		(property "Reference" "JP"
 			(at 0 2.794 0)
@@ -2766,6 +2767,7 @@
 				(font
 					(size 1.27 1.27)
 				)
+				(hide yes)
 			)
 		)
 		(property "Footprint" "0_mvl_SMD:SolderJumper-2_P1.3mm_Open_RoundedPad1.0x1.5mm"
