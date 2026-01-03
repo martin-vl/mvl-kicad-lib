@@ -329,7 +329,7 @@
 		(uuid "42c13fce-b936-4831-8058-c7d4741fa36c")
 	)
 	(embedded_fonts no)
-	(model "${KIPRJMOD}/shapes3D/vid28-05.step"
+	(model "${MVL_KICAD_LIB}/3d_models/0_mvl_THT.3dshapes/BK30D-R5.step"
 		(offset
 			(xyz 0 0 0)
 		)
@@ -337,7 +337,7 @@
 			(xyz 1 1 1)
 		)
 		(rotate
-			(xyz -90 0 -90)
+			(xyz -90 -0 -90)
 		)
 	)
 )
