@@ -10230,7 +10230,7 @@
 		)
 		(embedded_fonts no)
 	)
-	(symbol "SMD R 0805 0.22E 1%"
+	(symbol "SMD R 1210 0.22E 1% 500mW"
 		(pin_numbers
 			(hide yes)
 		)
@@ -10258,7 +10258,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "0_mvl_SMD:R_0805_2012Metric"
+		(property "Footprint" "0_mvl_SMD:R_1210_3225Metric"
 			(at -1.778 0 90)
 			(effects
 				(font
@@ -10285,7 +10285,7 @@
 				(hide yes)
 			)
 		)
-		(property "Name" "SMD R 0805 0.22E 1%"
+		(property "Name" "SMD R 1210 0.22E 1% 500mW"
 			(at 1.27 -3.81 0)
 			(effects
 				(font
@@ -10305,7 +10305,7 @@
 				(hide yes)
 			)
 		)
-		(property "ki_keywords" "R res resistor SMD R 0805 0.22R 220mR 1%"
+		(property "ki_keywords" "R res resistor SMD R 1210 0.22R 220mR 1%"
 			(at 0 0 0)
 			(effects
 				(font
@@ -10323,7 +10323,7 @@
 				(hide yes)
 			)
 		)
-		(symbol "SMD R 0805 0.22E 1%_0_1"
+		(symbol "SMD R 1210 0.22E 1% 500mW_0_1"
 			(rectangle
 				(start -1.016 -2.54)
 				(end 1.016 2.54)
@@ -10336,7 +10336,7 @@
 				)
 			)
 		)
-		(symbol "SMD R 0805 0.22E 1%_1_1"
+		(symbol "SMD R 1210 0.22E 1% 500mW_1_1"
 			(pin passive line
 				(at 0 3.81 270)
 				(length 1.27)
