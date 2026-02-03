@@ -79,6 +79,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC" "C14858"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(property "ki_keywords" "cap capacitor SMD C 0603 100pF 50V"
 			(at 0 0 0)
 			(effects
@@ -1045,6 +1054,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC" "C14663"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(property "ki_keywords" "cap capacitor SMD C 0603 100nF 50V"
 			(at 0 0 0)
 			(effects
@@ -1847,6 +1865,15 @@
 					(size 1.27 1.27)
 				)
 				(justify left)
+				(hide yes)
+			)
+		)
+		(property "LCSC" "C21122"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
 				(hide yes)
 			)
 		)
@@ -2977,6 +3004,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC" "C69335"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(property "ki_keywords" "cap capacitor SMD C 0603 X5R 4.7uF 25V"
 			(at 0 0 0)
 			(effects
@@ -3135,6 +3171,15 @@
 					(size 1.27 1.27)
 				)
 				(justify left)
+				(hide yes)
+			)
+		)
+		(property "LCSC" "C309062"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
 				(hide yes)
 			)
 		)
@@ -3732,6 +3777,15 @@
 					(size 1.27 1.27)
 				)
 				(justify left)
+				(hide yes)
+			)
+		)
+		(property "LCSC" "C22787"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
 				(hide yes)
 			)
 		)
@@ -5633,6 +5687,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC" "C23179"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(property "ki_keywords" "R res resistor SMD R 0603 5%"
 			(at 0 0 0)
 			(effects
@@ -6798,6 +6861,15 @@
 					(size 1.27 1.27)
 				)
 				(justify left)
+				(hide yes)
+			)
+		)
+		(property "LCSC" "C25804"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
 				(hide yes)
 			)
 		)
@@ -8258,6 +8330,15 @@
 					(size 1.27 1.27)
 				)
 				(justify left)
+				(hide yes)
+			)
+		)
+		(property "LCSC" "C4190"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
 				(hide yes)
 			)
 		)
@@ -10305,6 +10386,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC" "C2934313"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(property "ki_keywords" "R res resistor SMD R 1210 0.22R 220mR 1%"
 			(at 0 0 0)
 			(effects
@@ -10458,6 +10548,15 @@
 			)
 		)
 		(property "MPN" "SRN6045-100M"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC" "C18222097"
 			(at 0 0 0)
 			(effects
 				(font

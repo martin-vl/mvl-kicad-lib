@@ -94,6 +94,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC" "C5503436"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(symbol "79523141_0_1"
 			(rectangle
 				(start -2.286 1.778)
@@ -1120,6 +1129,15 @@
 		)
 		(property "Storage" "CASE-01-A04"
 			(at 0 -11.43 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC" "C6186"
+			(at 0 0 0)
 			(effects
 				(font
 					(size 1.27 1.27)

@@ -90,6 +90,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC" "C726020"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(property "ki_keywords" "Optocoupler EE SX1330 OMRON"
 			(at 0 0 0)
 			(effects
@@ -432,6 +441,15 @@
 			)
 		)
 		(property "MPN" ""
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC" "C19273151"
 			(at 0 0 0)
 			(effects
 				(font

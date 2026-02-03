@@ -86,6 +86,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC" "C52088"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(property "ki_keywords" "I2C Serial EEPROM"
 			(at 0 0 0)
 			(effects
@@ -609,6 +618,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC" "C107410"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(property "ki_keywords" "RTC TCXO Realtime Time Clock MEMS I2C"
 			(at 0 0 0)
 			(effects
@@ -863,6 +881,15 @@
 			)
 		)
 		(property "MPN" "ESP32-WROOM-32D"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC" "C473012"
 			(at 0 0 0)
 			(effects
 				(font
@@ -3343,6 +3370,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC" "C12084"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(property "ki_keywords" "can transeiver ti low-power"
 			(at 0 0 0)
 			(effects
@@ -3600,6 +3636,15 @@
 			)
 		)
 		(property "MPN" "STM32F091CCT6"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC" "C129795"
 			(at 0 0 0)
 			(effects
 				(font
@@ -4807,6 +4852,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC" "C2150710"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(property "ki_keywords" "ADI-Trinamic Analog-Devices"
 			(at 0 0 0)
 			(effects
@@ -5445,6 +5499,15 @@
 			)
 		)
 		(property "MPN" "TPS54202DDCR"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC" "C191884"
 			(at 0 0 0)
 			(effects
 				(font

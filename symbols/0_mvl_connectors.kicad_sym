@@ -4643,6 +4643,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC" "C23067530"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(property "ki_keywords" "connector 1x4 1x04 4pos jst xh"
 			(at 0 0 0)
 			(effects
