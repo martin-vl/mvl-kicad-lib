@@ -350,7 +350,7 @@
 		)
 		(embedded_fonts no)
 	)
-	(symbol "LED_Green"
+	(symbol "LED_Red"
 		(pin_numbers
 			(hide yes)
 		)
@@ -369,7 +369,7 @@
 				)
 			)
 		)
-		(property "Value" "LED_Green"
+		(property "Value" "Red"
 			(at 0 -2.54 0)
 			(effects
 				(font
@@ -431,7 +431,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer" ""
+		(property "Manufacturer" "Hubei KENTO Elec"
 			(at 0 0 0)
 			(effects
 				(font
@@ -440,7 +440,7 @@
 				(hide yes)
 			)
 		)
-		(property "MPN" ""
+		(property "MPN" "KT-0603R"
 			(at 0 0 0)
 			(effects
 				(font
@@ -449,7 +449,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC" "C19273151"
+		(property "LCSC" "C2286"
 			(at 0 0 0)
 			(effects
 				(font
@@ -476,7 +476,7 @@
 				(hide yes)
 			)
 		)
-		(symbol "LED_Green_0_1"
+		(symbol "LED_Red_0_1"
 			(polyline
 				(pts
 					(xy -1.27 0) (xy 1.27 0)
@@ -514,7 +514,7 @@
 				)
 			)
 		)
-		(symbol "LED_Green_1_1"
+		(symbol "LED_Red_1_1"
 			(polyline
 				(pts
 					(xy -3.048 -0.762) (xy -4.572 -2.286) (xy -3.81 -2.286) (xy -4.572 -2.286) (xy -4.572 -1.524)
@@ -522,7 +522,7 @@
 				(stroke
 					(width 0)
 					(type solid)
-					(color 111 174 99 1)
+					(color 255 0 6 1)
 				)
 				(fill
 					(type none)
@@ -535,7 +535,7 @@
 				(stroke
 					(width 0)
 					(type solid)
-					(color 111 174 99 1)
+					(color 255 0 6 1)
 				)
 				(fill
 					(type none)
