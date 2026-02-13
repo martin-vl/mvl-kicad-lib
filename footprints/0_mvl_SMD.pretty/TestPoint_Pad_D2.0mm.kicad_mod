@@ -90,6 +90,7 @@
 	(pad "1" smd circle
 		(at 0 0)
 		(size 2 2)
+		(property pad_prop_testpoint)
 		(layers "F.Cu" "F.Mask")
 		(uuid "66dd818e-46c3-4cc6-8165-861578cda9d2")
 	)
