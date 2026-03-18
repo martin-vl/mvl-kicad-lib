@@ -1,0 +1,141 @@
+(footprint "BananaJack_2pin_15.5mm_Red"
+	(version 20241229)
+	(generator "pcbnew")
+	(generator_version "9.0")
+	(layer "F.Cu")
+	(property "Reference" "REF**"
+		(at -7.5 -6 0)
+		(unlocked yes)
+		(layer "F.SilkS")
+		(uuid "b34561f5-ca75-4e65-9e52-b8c41fd94626")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.1)
+			)
+		)
+	)
+	(property "Value" "Banana Jack"
+		(at 0 -3 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(uuid "aa14a86a-c9aa-4c1a-86f7-831885571968")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Datasheet" ""
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "b5fbe753-c9bf-40e7-8683-6586177ec95e")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Description" ""
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "5c6fd42f-dd7e-4e51-a6fa-478e2c0fc1b9")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(attr through_hole)
+	(fp_rect
+		(start -12.75 -4.75)
+		(end -10.25 4.75)
+		(stroke
+			(width 0.2)
+			(type solid)
+		)
+		(fill no)
+		(layer "F.SilkS")
+		(uuid "3f811620-1c6b-4c72-8b33-5d87205bbb09")
+	)
+	(fp_rect
+		(start -10.25 -5.15)
+		(end 11.45 5.15)
+		(stroke
+			(width 0.2)
+			(type solid)
+		)
+		(fill no)
+		(layer "F.SilkS")
+		(uuid "753e57fa-ab3a-493a-9f81-76b0d693d227")
+	)
+	(fp_rect
+		(start -12.65 -4.65)
+		(end -10.25 4.65)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(fill no)
+		(layer "F.Fab")
+		(uuid "2381a0cc-ae11-468a-a45d-a260b9283e6b")
+	)
+	(fp_rect
+		(start -10.25 -5.05)
+		(end 11.35 5.05)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(fill no)
+		(layer "F.Fab")
+		(uuid "f90a4079-d1bc-4a5a-838d-63e6722e13d5")
+	)
+	(fp_text user "${REFERENCE}"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(uuid "0e513318-ea21-4b1d-bb7d-5f48bb2af7f2")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(pad "1" thru_hole circle
+		(at -7.75 0)
+		(size 3 3)
+		(drill 1.9)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(uuid "ac2f8063-9f35-43c5-85f5-92c24eccc678")
+	)
+	(pad "2" thru_hole circle
+		(at 7.75 0)
+		(size 3 3)
+		(drill 1.9)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(uuid "4765b555-727b-482b-98f8-16770626f7e1")
+	)
+	(embedded_fonts no)
+	(model "${MVL_KICAD_LIB}/3d_models/0_mvl_THT.3dshapes/BananaJack_2pin_15.5_Red.step"
+		(offset
+			(xyz -7.75 0 0)
+		)
+		(scale
+			(xyz 1 1 1)
+		)
+		(rotate
+			(xyz -0 -0 90)
+		)
+	)
+)

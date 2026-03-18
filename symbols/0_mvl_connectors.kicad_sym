@@ -784,7 +784,7 @@
 		)
 		(embedded_fonts no)
 	)
-	(symbol "Banana_Jack_Hor_2Pin"
+	(symbol "Banana_Jack_Hor_2Pin_Red"
 		(pin_names
 			(offset 1.016)
 			(hide yes)
@@ -800,7 +800,7 @@
 				)
 			)
 		)
-		(property "Value" "Banana Jack"
+		(property "Value" "Banana Jack Red"
 			(at 1.27 -2.54 0)
 			(effects
 				(font
@@ -808,7 +808,7 @@
 				)
 			)
 		)
-		(property "Footprint" "0_mvl_THT:BananaJack_2pin_15.5mm"
+		(property "Footprint" "0_mvl_THT:BananaJack_2pin_15.5mm_Red"
 			(at 0 0 0)
 			(effects
 				(font
@@ -826,7 +826,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Banana Jack Horizontal 2 pins"
+		(property "Description" "Banana Jack Horizontal 2 pins Red"
 			(at 0 0 0)
 			(effects
 				(font
@@ -853,7 +853,7 @@
 				(hide yes)
 			)
 		)
-		(symbol "Banana_Jack_Hor_2Pin_1_1"
+		(symbol "Banana_Jack_Hor_2Pin_Red_1_1"
 			(rectangle
 				(start -1.27 1.27)
 				(end 3.81 -1.27)
@@ -6263,5 +6263,69 @@
 			)
 		)
 		(embedded_fonts no)
+	)
+	(symbol "Banana_Jack_Hor_2Pin_Black"
+		(extends "Banana_Jack_Hor_2Pin_Red")
+		(property "Reference" "J"
+			(at 1.27 2.54 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "Banana Jack Black"
+			(at 1.27 -2.54 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "0_mvl_THT:BananaJack_2pin_15.5mm_Black"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Banana Jack Horizontal 2 pins Black"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "ki_keywords" "connector"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "ki_fp_filters" "Connector*:*_2x??_*"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 	)
 )
