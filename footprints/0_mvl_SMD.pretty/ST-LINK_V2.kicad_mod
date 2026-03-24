@@ -1,0 +1,147 @@
+(footprint "ST-LINK_V2"
+	(version 20241229)
+	(generator "pcbnew")
+	(generator_version "9.0")
+	(layer "F.Cu")
+	(property "Reference" "REF**"
+		(at 0 -0.5 0)
+		(unlocked yes)
+		(layer "F.SilkS")
+		(uuid "aabc761a-7e0c-4b55-8c07-1e06a6337efa")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.1)
+			)
+		)
+	)
+	(property "Value" "Untitled"
+		(at 0 1 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(uuid "f78db730-3a4c-4f63-8c0f-d3c73351f67f")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Datasheet" ""
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "288838fa-ab26-4ce9-bd24-312d7dcde8b9")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Description" ""
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "21b7dd81-7f1f-43c2-a92d-f321ee684731")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(attr smd)
+	(fp_rect
+		(start -16.55 -8.55)
+		(end 16.55 8.55)
+		(stroke
+			(width 0.2)
+			(type solid)
+		)
+		(fill no)
+		(layer "F.SilkS")
+		(uuid "aa1bdab5-dd19-419b-902e-b2fa74a4e066")
+	)
+	(fp_rect
+		(start -16.55 6)
+		(end -28.55 -6)
+		(stroke
+			(width 0.2)
+			(type solid)
+		)
+		(fill no)
+		(layer "F.SilkS")
+		(uuid "b33a51d2-1c7d-483a-adc6-17e8e79520ec")
+	)
+	(fp_rect
+		(start 16.55 10.15)
+		(end 25.21 -10.15)
+		(stroke
+			(width 0.2)
+			(type solid)
+		)
+		(fill no)
+		(layer "F.SilkS")
+		(uuid "d4146cca-6350-455a-837d-f2227ac3f630")
+	)
+	(fp_rect
+		(start -16.55 -8.55)
+		(end 16.55 8.55)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(fill no)
+		(layer "F.Fab")
+		(uuid "000dd1b3-e0d7-47f7-9439-48e17947c599")
+	)
+	(fp_rect
+		(start -16.55 6)
+		(end -28.55 -6)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(fill no)
+		(layer "F.Fab")
+		(uuid "0818c8a2-a787-487b-a13b-b39abaa47440")
+	)
+	(fp_rect
+		(start 16.55 10.15)
+		(end 25.21 -10.15)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(fill no)
+		(layer "F.Fab")
+		(uuid "3d371131-2a89-4a42-9ace-3f14e15c7828")
+	)
+	(fp_text user "${REFERENCE}"
+		(at 0 2.5 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(uuid "37c5c74c-ca8f-4190-a6d5-32475b0da7a4")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(embedded_fonts no)
+	(model "${MVL_KICAD_LIB}/3d_models/0_mvl_SMD.3dshapes/ST-LINK_v2.STEP"
+		(offset
+			(xyz -22.5 -11.5 3.5)
+		)
+		(scale
+			(xyz 1 1 1)
+		)
+		(rotate
+			(xyz -90 -0 -180)
+		)
+	)
+)
