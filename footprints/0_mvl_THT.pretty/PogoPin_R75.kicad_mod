@@ -4,14 +4,14 @@
 	(generator_version "9.0")
 	(layer "F.Cu")
 	(property "Reference" "REF**"
-		(at 0 -0.5 0)
+		(at 0 -1.905 0)
 		(unlocked yes)
 		(layer "F.SilkS")
 		(uuid "489c189a-c5e6-4777-ae6a-cc55b8a431e9")
 		(effects
 			(font
 				(size 1 1)
-				(thickness 0.1)
+				(thickness 0.15)
 			)
 		)
 	)
@@ -54,8 +54,8 @@
 			)
 		)
 	)
-	(property "Net" ""
-		(at 0 0 0)
+	(property "Net" "NET"
+		(at 0 1.905 0)
 		(layer "F.SilkS")
 		(uuid "dad2ae5b-eb12-4b9b-8375-5b6fbd514084")
 		(effects
@@ -67,7 +67,7 @@
 	)
 	(attr through_hole exclude_from_bom)
 	(fp_text user "${REFERENCE}"
-		(at 0 2.5 0)
+		(at 0 -1.905 0)
 		(unlocked yes)
 		(layer "F.Fab")
 		(uuid "e17e0cc6-8c26-4f24-a00d-c474d607a837")
